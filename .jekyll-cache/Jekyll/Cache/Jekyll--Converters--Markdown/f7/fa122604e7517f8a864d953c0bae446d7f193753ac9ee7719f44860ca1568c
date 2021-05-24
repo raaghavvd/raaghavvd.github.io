@@ -1,12 +1,12 @@
-I"<div class="row">
+I"ý<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/GameEngineMenu.png" alt="" title="Main menu of our engine" />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/GameEngineMenu.png" alt="" title="Main menu of our engine" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/tile_maker.png" alt="" title="Tile Map maker" />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/tile_maker.png" alt="" title="Tile Map maker" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/sprite_tool.png" alt="" title="Sprite Previewer" />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sprite_tool.png" alt="" title="Sprite Previewer" />
     </div>
 </div>
 <div class="caption">
@@ -14,7 +14,7 @@
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/galaga.png" alt="" title="Galaga" />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/galaga.png" alt="" title="Galaga" />
     </div>
 </div>
 <div class="caption">
@@ -88,10 +88,10 @@ We would have also liked to add other tools. It would have been nice if we could
     <h2> Class Hierarchy </h2>
     <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/diagram1.png" alt="" title="Class Hierarchy" />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/diagram1.png" alt="" title="Class Hierarchy" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/home/assets/img/diagram2.png" alt="" title="Class Hierarchy " />
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/diagram2.png" alt="" title="Class Hierarchy " />
     </div>
 
 </div>

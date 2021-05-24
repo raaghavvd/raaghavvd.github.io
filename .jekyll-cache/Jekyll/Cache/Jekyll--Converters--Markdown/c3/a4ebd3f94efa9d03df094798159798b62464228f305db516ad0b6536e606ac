@@ -1,0 +1,261 @@
+I"ˆ<div class="projects">
+  
+  <!-- Display categorized projects -->
+    
+      <h2 class="category">Game Development</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/GameEngine%202/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/GameEngineMenu.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Platformer Game Engine</h2>
+        <p class="card-text">Game Engine built using SDL2 and C++</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/GameEngine/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/GameEngineMenu.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Platformer Game Engine</h2>
+        <p class="card-text">Game Engine built using SDL2 and C++</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/breakout%202/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Breakout_Image.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Breakout</h2>
+        <p class="card-text">A recreation of a classic game</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/breakout/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Breakout_Image.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Breakout</h2>
+        <p class="card-text">A recreation of a classic game</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/dino_platformer%202/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/dino3.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Dino Platformer</h2>
+        <p class="card-text">Our take on the classic 2D platformer</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/dino_platformer/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/dino3.png" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Dino Platformer</h2>
+        <p class="card-text">Our take on the classic 2D platformer</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+      <h2 class="category">fun</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/4_project%202/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 4</h2>
+        <p class="card-text">another without an image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/4_project/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 4</h2>
+        <p class="card-text">another without an image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/5_project%202/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 5</h2>
+        <p class="card-text">a project with a background image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/5_project/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 5</h2>
+        <p class="card-text">a project with a background image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/6_project%202/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 6</h2>
+        <p class="card-text">a project with no image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/6_project/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 6</h2>
+        <p class="card-text">a project with no image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+
+  
+
+</div>
+:ET
