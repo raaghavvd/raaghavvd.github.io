@@ -1,5 +1,13 @@
 ---
 layout: post
+date: 2021-01-19 15:59:00-0400
+inline: true
+---
+
+I'll be working as a Graduate Teaching Assistant for the CS6200- Information Retrieval course under Prof. Amor-Tijani.
+
+<!-- ---
+layout: post
 title: A long announcement with details
 date: 2021-01-16 16:11:00-0400
 inline: false
@@ -28,4 +36,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
