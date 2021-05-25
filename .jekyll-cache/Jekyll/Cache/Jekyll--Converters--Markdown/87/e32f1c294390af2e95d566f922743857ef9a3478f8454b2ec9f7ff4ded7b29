@@ -1,0 +1,236 @@
+I"<div class="publications">
+@article{raaghavv,
+  abbr={Research Project},
+  title={Username Enumeration},
+  author={Raaghavv Devgon,Jugal Joshi and Abhishek Ningala},
+  url={https://ieeexplore.ieee.org/document/8821637},
+  html={https://github.com/raaghavvd/UsernameEnumeration},
+  pdf={UsernameEnumeration.pdf},
+  year={2021}
+}
+@article{raaghavv,
+  abbr={Research Project},
+  title={Privacy and Contact Tracing in the Era of COVID-19},
+  author={Raaghavv Devgon, Megan Skrobacz},
+  
+  pdf={COVIDTracing.pdf},
+  year={2020}
+}
+
+@article{raaghavv,
+  abbr={IEEE Explore},
+  title={Analysis of Encryption and Lossless Compression Techniques for Secure Data Transmission},
+  author={Raaghavv Devgon, Siddharth Singh},
+  journal={2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS)},
+  url={https://ieeexplore.ieee.org/document/8821637},
+  html={https://ieeexplore.ieee.org/document/8821637},
+  year={2019},
+  publisher={IEEE}
+}
+  <!-- 
+    <h2 class ="year">2021</h2>
+      <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">Research Project</abbr>
+    
+  
+  </div>
+
+  <div id="raaghavv" class="col-sm-8">
+    
+      <div class="title">Username Enumeration</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Raaghavv Devgon, Jugal Joshi,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and Ningala, Abhishek
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em></em>
+      
+      
+        2021
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+      <a href="https://github.com/raaghavvd/UsernameEnumeration" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    
+    
+      
+      <a href="/assets/pdf/UsernameEnumeration.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+  </div>
+<p>&lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class ="year"&gt;2020&lt;/h2&gt;
+  &lt;ol class="bibliography"&gt;&lt;li&gt;&lt;div class="row"&gt;
+</code></pre></div></div>
+<div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">Research Project</abbr>
+    
+  
+  </div>
+
+<div id="raaghavw" class="col-sm-8">
+    
+      <div class="title">Privacy and Contact Tracing in the Era of COVID-19</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              Raaghavv Devgon, Megan Skrobacz
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em></em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+      
+      <a href="/assets/pdf/COVIDTracing.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+  </div>
+<p>&lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class ="year"&gt;2019&lt;/h2&gt;
+  &lt;ol class="bibliography"&gt;&lt;li&gt;&lt;div class="row"&gt;
+</code></pre></div></div>
+<div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">IEEE Explore</abbr>
+    
+  
+  </div>
+
+<div id="raaghavx" class="col-sm-8">
+    
+      <div class="title">Analysis of Encryption and Lossless Compression Techniques for Secure Data Transmission</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              Raaghavv Devgon, Siddharth Singh
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>2019 IEEE 4th International Conference on Computer and Communication Systems (ICCCS)</em>
+      
+      
+        2019
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+      <a href="https://ieeexplore.ieee.org/document/8821637" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+  </div>
+<p>&lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;
+   –&gt;
+&lt;/div&gt;</p>
+:ET
