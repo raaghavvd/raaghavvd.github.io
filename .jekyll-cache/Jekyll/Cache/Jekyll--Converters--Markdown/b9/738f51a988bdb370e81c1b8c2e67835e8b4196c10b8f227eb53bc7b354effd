@@ -1,4 +1,4 @@
-I"C<div class="projects">
+I"<div class="projects">
   
   <!-- Display categorized projects -->
     
@@ -11,11 +11,11 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/GameEngine/">
+  <a href="/projects/GameEngine/">
   
     <div class="card hoverable">
       
-      <img src="/home/assets/img/GameEngineMenu.png" alt="project thumbnail" />
+      <img src="/assets/img/GameEngineMenu.png" alt="project thumbnail" />
       
       <div class="card-body">
         <h2 class="card-title text-lowercase">Platformer Game Engine</h2>
@@ -31,11 +31,11 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/breakout/">
+  <a href="/projects/breakout/">
   
     <div class="card hoverable">
       
-      <img src="/home/assets/img/Breakout_Image.jpg" alt="project thumbnail" />
+      <img src="/assets/img/Breakout_Image.jpg" alt="project thumbnail" />
       
       <div class="card-body">
         <h2 class="card-title text-lowercase">Breakout</h2>
@@ -51,11 +51,11 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/dino_platformer/">
+  <a href="/projects/dino_platformer/">
   
     <div class="card hoverable">
       
-      <img src="/home/assets/img/dino3.png" alt="project thumbnail" />
+      <img src="/assets/img/dino3.png" alt="project thumbnail" />
       
       <div class="card-body">
         <h2 class="card-title text-lowercase">Dino Platformer</h2>
@@ -81,7 +81,7 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/4_project/">
+  <a href="/projects/4_project/">
   
     <div class="card hoverable">
       
@@ -99,11 +99,11 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/5_project/">
+  <a href="/projects/5_project/">
   
     <div class="card hoverable">
       
-      <img src="/home/assets/img/1.jpg" alt="project thumbnail" />
+      <img src="/assets/img/1.jpg" alt="project thumbnail" />
       
       <div class="card-body">
         <h2 class="card-title text-lowercase">project 5</h2>
@@ -119,7 +119,7 @@
           
             <div class="grid-item">
   
-  <a href="/home/projects/6_project/">
+  <a href="/projects/6_project/">
   
     <div class="card hoverable">
       
