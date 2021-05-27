@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Showcasing some of my projects!
 nav: true
-display_categories: [Game Development, fun]
+display_categories: [Game Development]
 horizontal: false
 ---
 <div class="projects">
