@@ -1,6 +1,8 @@
 ---
 layout: page
 title: experience
+permalink: /experience/
+
 # description: My resume
 nav: true
 
